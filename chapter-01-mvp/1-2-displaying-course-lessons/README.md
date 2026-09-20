@@ -1,3 +1,21 @@
-# Lesson checkpoint
+# Lesson 1-2 - Displaying Course Lessons
 
-Implementasi lesson ini akan ditempatkan di folder ini.
+Checkpoint ini membuat katalog lesson pertama menggunakan file-based routing Nuxt.
+
+## Route yang tersedia
+
+- `/` - landing page lesson.
+- `/lessons` - daftar lesson course.
+
+## Menjalankan
+
+```bash
+npm install
+npm run dev
+```
+
+Validasi production:
+
+```bash
+npm run build
+```
